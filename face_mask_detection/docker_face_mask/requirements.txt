@@ -1,0 +1,4 @@
+tensorflow
+Keras
+Flask
+numpy == 1.18.0
