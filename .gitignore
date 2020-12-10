@@ -3,4 +3,3 @@ dontadd2/
 dontadd/
 
 *.weights
-*.h5

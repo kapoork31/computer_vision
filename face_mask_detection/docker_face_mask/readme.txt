@@ -19,3 +19,5 @@ docker containers
  - docker ps -a: to see all containers that have ever run
  - docker stop [container name] stop running container
  - docker rm [container id] to remove container by id
+
+- once the container is running, in the parent folder face_mask_detection run call_face_mask_detection_using_camera.py
